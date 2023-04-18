@@ -1,0 +1,19 @@
+.header{
+    font-size: 25px;
+    background-color: lightblue;
+    font-family: cursive;
+}
+
+body{
+    background-color: lightgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainbody{
+    color: darkblue;
+}
+
+.footer{
+    font-style: italic;
+}
+
+
